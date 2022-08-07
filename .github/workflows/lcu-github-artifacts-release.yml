@@ -1,4 +1,4 @@
-name: toxic-leo/public-web-react
+name: toxic-leo/public-web-docusaurus
 
 on:
   push:
